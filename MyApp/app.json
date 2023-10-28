@@ -1,8 +1,8 @@
 {
-  "id": "b5c51312-07c5-4c6d-8144-b11ca6bab21c",
-  "name": "DemoApp",
-  "publisher": "henrikfrovst",
-  "version": "1.0.0.0",
+  "id": "19cdc56f-b7e5-4870-8492-fbadddb5fd08",
+  "name": "MyApp",
+  "publisher": "Freddy",
+  "version": "6.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -17,7 +17,7 @@
   "idRanges": [
     {
       "from": 50000,
-      "to": 55000
+      "to": 51000
     }
   ],
   "features": [
@@ -27,5 +27,6 @@
     "allowDebugging": true,
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
-  }
+  },
+  "runtime": 11.1
 }
